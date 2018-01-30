@@ -1,0 +1,30 @@
+{
+    "name": "irvine48/empty-autoloader",
+    "description": "Empty project to initialize autoloader alone.",
+    "authors": [
+        {
+            "name": "iRviNe48",
+            "email": "irvine48@hotmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+
+        },
+        "psr-4": {
+
+        },
+        "classmap": [
+        
+        ],
+        "files": [
+
+        ],
+        "exclude-from-classmap": [
+
+        ]
+    }
+}
